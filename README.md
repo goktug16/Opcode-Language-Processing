@@ -1,1 +1,1 @@
-# Detecting-Vulnerabilit-in-Hardware-Description-Languages-Opcode-Language-Processing
+# Detecting-Vulnerability-in-Hardware-Description-Languages-Opcode-Language-Processing
