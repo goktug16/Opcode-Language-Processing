@@ -4,30 +4,6 @@
 
 Our project uses a Convolutional Neural Network (CNN)-based architecture to find trojan patterns in hardware designs. We analyze both the opcode version of the Hardware Description Language (HDL) code and the HDL code itself to understand and compare the results. This helps us uncover security issues in hardware systems.
 
-<h2>Installation and Setup</h2>
-
-<p>To run this project, users will need to have the following libraries installed:</p>
-
-<ul>
-    <li>nltk</li>
-    <li>zipfile</li>
-    <li>pandas</li>
-    <li>numpy</li>
-    <li>keras</li>
-    <li>tensorflow</li>
-    <li>scikit-learn (sklearn)</li>
-    <li>nlpaug</li>
-    <li>matplotlib</li>
-    <li>seaborn</li>
-</ul>
-
-<p>Users can install these libraries using Python's package manager, pip. The following command should be used for each library:</p>
-
-<pre>
-    <code>pip install library-name</code>
-</pre>
-
-<p>Replace "library-name" with the name of the library they want to install.</p>
 
 
 <h3>Implementation Environment</h3>
