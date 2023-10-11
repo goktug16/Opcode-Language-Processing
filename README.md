@@ -1,7 +1,5 @@
 <h1>Detecting Vulnerability in Hardware Description Languages - Opcode Language Processing</h1>
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
+
 <h2>Overview</h2>
 
 <p>Our project uses a Convolutional Neural Network (CNN)-based architecture to find trojan patterns in hardware designs. We analyze both the opcode version of the Hardware Description Language (HDL) code and the HDL code itself to understand and compare the results. This helps us uncover security issues in hardware systems.</p>
