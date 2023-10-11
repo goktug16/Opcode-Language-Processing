@@ -29,7 +29,7 @@
     <code>pip install library-name</code>
 </pre>
 
-<p>Replace "library-name" with the name of the library they you to install.</p>
+<p>Replace "library-name" with the name of the library you want to install.</p>
 
 <h3>Implementation Environment</h3>
 
