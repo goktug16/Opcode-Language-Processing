@@ -136,7 +136,9 @@
 
 <p>The foundation of our trojan insertion approach revolves around identifying "rare nodes" within the circuit designs. These rare nodes are crucial because they represent potential points of vulnerability where trojans can be inserted. To select these nodes, we employ a vulnerability score (VS) computation:</p>
 
-<p><strong>VS = Pr(0) * ((1 - CC0) / (CC0 + CC1))</strong></p>
+<p> \[
+VS = Pr(0) \cdot \frac{{1 - CC0}}{{CC0 + CC1}}
+\] </p>
 
 <p>Where:</p>
 <ul>
