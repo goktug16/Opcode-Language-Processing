@@ -153,7 +153,6 @@
 
 <p>By systematically inserting trojans into synthetically generated benchmarks, we gain valuable insights into the performance and reliability of our trojan detection techniques. This comprehensive testing approach ensures that our methods are effective in identifying trojans across a range of scenarios, contributing to enhanced hardware security.</p>
 
-<p>For a deeper understanding of our trojan insertion process and its impact on trojan detection, please refer to the provided documentation and research materials in our GitHub repository.</p>
 
 
 
