@@ -126,3 +126,30 @@
 
 <p>Our contributions and features represent a novel perspective on trojan detection in hardware designs, emphasizing a data-driven approach with remarkable accuracy improvements.</p>
 
+
+
+<h2>Inserting Trojans into Hardware</h2>
+
+<p>In our research, we employed a synthetic circuit benchmark generator, allowing the creation of circuit benchmarks with user-defined parameters. These parameters encompass depth levels, logical units, inputs/outputs, and wire counts. The objective was to evaluate the effectiveness of trojan detection methods in various hardware design scenarios.</p>
+
+<h3>Identifying Rare Nodes</h3>
+
+<p>The foundation of our trojan insertion approach revolves around identifying "rare nodes" within the circuit designs. These rare nodes are crucial because they represent potential points of vulnerability where trojans can be inserted. To select these nodes, we employ a vulnerability score (VS) computation:</p>
+
+<p><strong>VS = Pr(0) * ((1 - CC0) / (CC0 + CC1))</strong></p>
+
+<p>Where:</p>
+<ul>
+    <li><strong>Pr(0)</strong> represents the probability of a node transitioning to '0.'</li>
+    <li><strong>CC0</strong> and <strong>CC1</strong> indicate the efforts required to guide the node to '0' and '1,' respectively.</li>
+</ul>
+
+<h3>Synthetic Trojan Insertion</h3>
+
+<p>Based on the vulnerability score (VS) of a node, we synthetically inject trojans into the hardware designs. These trojans are carefully designed to target the rare nodes, making them particularly challenging to detect. This approach helps us assess the robustness of our trojan detection methods and their ability to uncover hidden vulnerabilities within hardware systems.</p>
+
+<p>By systematically inserting trojans into synthetically generated benchmarks, we gain valuable insights into the performance and reliability of our trojan detection techniques. This comprehensive testing approach ensures that our methods are effective in identifying trojans across a range of scenarios, contributing to enhanced hardware security.</p>
+
+<p>For a deeper understanding of our trojan insertion process and its impact on trojan detection, please refer to the provided documentation and research materials in our GitHub repository.</p>
+
+
