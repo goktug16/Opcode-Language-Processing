@@ -131,13 +131,15 @@
 
 <p>In our research, we employed a synthetic circuit benchmark generator, allowing the creation of circuit benchmarks with user-defined parameters. These parameters encompass depth levels, logical units, inputs/outputs, and wire counts. The objective was to evaluate the effectiveness of trojan detection methods in various hardware design scenarios.</p>
 
+<h2>Inserting Trojans into Hardware</h2>
+
+<p>In our research, we employed a synthetic circuit benchmark generator, allowing the creation of circuit benchmarks with user-defined parameters. These parameters encompass depth levels, logical units, inputs/outputs, and wire counts. The objective was to evaluate the effectiveness of trojan detection methods in various hardware design scenarios.</p>
+
 <h3>Identifying Rare Nodes</h3>
 
 <p>The foundation of our trojan insertion approach revolves around identifying "rare nodes" within the circuit designs. These rare nodes are crucial because they represent potential points of vulnerability where trojans can be inserted. To select these nodes, we employ a vulnerability score (VS) computation:</p>
 
-<p> \[
-VS = Pr(0) \cdot \frac{{1 - CC0}}{{CC0 + CC1}}
-\] </p>
+<p><strong>VS = Pr(0) * ((1 - CC0) / (CC0 + CC1))</strong></p>
 
 <p>Where:</p>
 <ul>
@@ -152,6 +154,7 @@ VS = Pr(0) \cdot \frac{{1 - CC0}}{{CC0 + CC1}}
 <p>By systematically inserting trojans into synthetically generated benchmarks, we gain valuable insights into the performance and reliability of our trojan detection techniques. This comprehensive testing approach ensures that our methods are effective in identifying trojans across a range of scenarios, contributing to enhanced hardware security.</p>
 
 <p>For a deeper understanding of our trojan insertion process and its impact on trojan detection, please refer to the provided documentation and research materials in our GitHub repository.</p>
+
 
 
 
