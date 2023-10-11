@@ -94,3 +94,34 @@
 </ol>
 
 <p>By following these steps, you can easily install, set up, and use the project within Jupyter Lab. The comments within the IPython Notebook files will guide you through the entire process, ensuring you understand the purpose of each function and line of code.</p>
+
+<h2>Key Features</h2>
+
+<ul>
+    <li>
+        <strong>Pattern Detection from HDL Code:</strong>
+        <p>Instead of relying solely on traditional machine learning techniques that use numerical data, we take a unique approach. We aim to find trojan patterns directly from the Hardware Description Language (HDL) code itself.</p>
+    </li>
+    
+    <li>
+        <strong>Exploring Raw HDL Code:</strong>
+        <p>Initially, we analyzed raw HDL codes, including samples from both trojan-injected and trojan-free sources. However, our Convolutional Neural Network (CNN)-based architecture couldn't effectively detect patterns directly from the raw code.</p>
+    </li>
+    
+    <li>
+        <strong>Comprehensive Testing:</strong>
+        <p>All our experiments and testing related to HDL code processing can be found in the `HDL Processing.ipynb` file, which is readily available in our GitHub repository.</p>
+    </li>
+    
+    <li>
+        <strong>Conversion to Opcodes:</strong>
+        <p>In response to the initial limitations, we took an alternative approach. We transformed all HDL codes into opcodes to assess the model's ability to identify trojan patterns from opcodes.</p>
+    </li>
+    
+    <li>
+        <strong>Improved Trojan Detection:</strong>
+        <p>While simple machine learning models proved ineffective, our CNN-based architecture significantly enhanced trojan detection accuracy. It achieved an impressive accuracy rate of 94% when working with opcodes.</p>
+    </li>
+</ul>
+
+<p>Our contributions and features represent a novel perspective on trojan detection in hardware designs, emphasizing a data-driven approach with remarkable accuracy improvements.</p>
