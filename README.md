@@ -60,6 +60,52 @@ Our project uses a Convolutional Neural Network (CNN)-based architecture to find
 
 <p>By following these steps, users can easily set up an Anaconda environment and install Jupyter Lab for running the project's code.</p>
 
+<h3>Getting Started</h3>
+
+<p>The project is designed to be easy to install and use, requiring only Jupyter Lab as the main environment. To get started, follow these simple steps:</p>
+
+<ol>
+    <li><strong>Install Jupyter Lab (if not already installed):</strong> You can install Jupyter Lab using pip with the following command:</li>
+    <pre>
+        <code>pip install jupyterlab</code>
+    </pre>
+
+    <li><strong>Download Project Files:</strong>
+        <ul>
+            <li>Clone or download this repository to your local machine.</li>
+        </ul>
+    </li>
+
+    <li><strong>Open Jupyter Lab:</strong>
+        <ul>
+            <li>Launch Jupyter Lab in your terminal by running the command:</li>
+            <pre>
+                <code>jupyter lab</code>
+            </pre>
+        </ul>
+    </li>
+
+    <li><strong>Navigate to Project Directory:</strong>
+        <ul>
+            <li>In Jupyter Lab, navigate to the directory where you downloaded the project's IPython Notebook (.ipynb) files.</li>
+        </ul>
+    </li>
+
+    <li><strong>Run the Project:</strong>
+        <ul>
+            <li>Open the desired IPython Notebook file, which contains the step-by-step model training and results. Each cell includes comments explaining the purpose of the functions and lines of code.</li>
+        </ul>
+    </li>
+
+    <li><strong>Execute Cells Step by Step:</strong>
+        <ul>
+            <li>Execute each cell one by one to observe the model training and view the results. The comments within the cells provide clear explanations of what each part of the code does.</li>
+        </ul>
+    </li>
+</ol>
+
+<p>By following these steps, you can easily install, set up, and use the project within Jupyter Lab. The comments within the IPython Notebook files will guide you through the entire process, ensuring you understand the purpose of each function and line of code.</p>
+
 
 
 
