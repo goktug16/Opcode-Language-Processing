@@ -1,8 +1,8 @@
-# Detecting-Vulnerability-in-Hardware-Description-Languages-Opcode-Language-Processing
+<h1>Detecting Vulnerability in Hardware Description Languages - Opcode Language Processing</h1>
 
-**Overview:** 
+<h2>Overview</h2>
 
-Our project uses a Convolutional Neural Network (CNN)-based architecture to find trojan patterns in hardware designs. We analyze both the opcode version of the Hardware Description Language (HDL) code and the HDL code itself to understand and compare the results. This helps us uncover security issues in hardware systems.
+<p>Our project uses a Convolutional Neural Network (CNN)-based architecture to find trojan patterns in hardware designs. We analyze both the opcode version of the Hardware Description Language (HDL) code and the HDL code itself to understand and compare the results. This helps us uncover security issues in hardware systems.</p>
 
 <h2>Installation and Setup</h2>
 
@@ -28,7 +28,6 @@ Our project uses a Convolutional Neural Network (CNN)-based architecture to find
 </pre>
 
 <p>Replace "library-name" with the name of the library they want to install.</p>
-
 
 <h3>Implementation Environment</h3>
 
@@ -60,7 +59,7 @@ Our project uses a Convolutional Neural Network (CNN)-based architecture to find
 
 <p>By following these steps, users can easily set up an Anaconda environment and install Jupyter Lab for running the project's code.</p>
 
-<h3>Getting Started</h3>
+<h2>Usage</h2>
 
 <p>The project is designed to be easy to install and use, requiring only Jupyter Lab as the main environment. To get started, follow these simple steps:</p>
 
@@ -105,8 +104,3 @@ Our project uses a Convolutional Neural Network (CNN)-based architecture to find
 </ol>
 
 <p>By following these steps, you can easily install, set up, and use the project within Jupyter Lab. The comments within the IPython Notebook files will guide you through the entire process, ensuring you understand the purpose of each function and line of code.</p>
-
-
-
-
-
