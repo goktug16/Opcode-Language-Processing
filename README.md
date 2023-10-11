@@ -1,6 +1,6 @@
 <h1>Detecting Vulnerability in Hardware Description Languages - Opcode Language Processing</h1>
 
-<p>This work is presently under review and has been submitted to HIPEAC 2024, the 6th edition of the International Workshop on Secure Hardware, Architectures, and Software (SeHAS) held in Munich, Germany. In the event of acceptance, the proceedings will be published in the IEEE Embedded Systems Letters, and we will provide citation information.</p>
+<p>This work is presently under review and has been submitted to HIPEAC 2024, the 6th edition of the International Workshop on Secure Hardware, Architectures, and Software (SeHAS) will be held in Munich, Germany. In the event of acceptance, the proceedings will be published in the IEEE Embedded Systems Letters, and we will provide citation information.</p>
 
 <h2>Overview</h2>
 
