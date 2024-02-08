@@ -1,9 +1,20 @@
 <h1>Detecting Vulnerability in Hardware Description Languages - Opcode Language Processing</h1>
 
-<p>This work has been accepted and published in the IEEE Embedded Systems Letters. It was initially submitted to HIPEAC 2024, the 6th edition of the International Workshop on Secure Hardware, Architectures, and Software (SeHAS), which was held in Munich, Germany. Following its acceptance, the proceedings have been included in the IEEE Embedded Systems Letters, and citation information is now available.
-(A. G. Ayar, A. Sahruri, S. Aygun, M. S. Moghadam, M. H. Najafi and M. Margala, "Detecting Vulnerability in Hardware Description Languages: Opcode Language Processing," in IEEE Embedded Systems Letters, doi: 10.1109/LES.2023.3334728.
-keywords: {Codes;Hardware design languages;Trojan horses;Hardware;C++ languages;Integrated circuits;Benchmark testing},)
-</p>
+## Publication
+
+This work has been accepted and published in the IEEE Embedded Systems Letters. It was initially submitted to HIPEAC 2024, the 6th edition of the International Workshop on Secure Hardware, Architectures, and Software (SeHAS), which was held in Munich, Germany. Following its acceptance, the proceedings have been included in the IEEE Embedded Systems Letters, and citation information is now available.
+
+### Citation
+A. G. Ayar, A. Sahruri, S. Aygun, M. S. Moghadam, M. H. Najafi, and M. Margala, "Detecting Vulnerability in Hardware Description Languages: Opcode Language Processing," in IEEE Embedded Systems Letters, doi: [10.1109/LES.2023.3334728](https://doi.org/10.1109/LES.2023.3334728).
+
+#### Keywords
+- Codes
+- Hardware design languages
+- Trojan horses
+- Hardware
+- C++ languages
+- Integrated circuits
+- Benchmark testing
 
 <h2>Overview</h2>
 
