@@ -8,9 +8,9 @@ This work has been accepted and published in the IEEE Embedded Systems Letters. 
 A. G. Ayar, A. Sahruri, S. Aygun, M. S. Moghadam, M. H. Najafi, and M. Margala, "Detecting Vulnerability in Hardware Description Languages: Opcode Language Processing," in IEEE Embedded Systems Letters, doi: [10.1109/LES.2023.3334728](https://doi.org/10.1109/LES.2023.3334728).
 
 #### Keywords
-- Codes
-- Hardware design languages
-- Trojan horses
+- Opcodes
+- Hardware Description Language
+- Hardware Trojans
 - Hardware
 - C++ languages
 - Integrated circuits
